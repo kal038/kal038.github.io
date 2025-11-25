@@ -48,10 +48,6 @@ function Intro() {
           In the process, I create scalable systems and elegant products that
           power positive user experiences.
         </p>
-
-        <p className="text-sm md:text-base text-stone-500 dark:text-stone-400 italic">
-          Deployment check: this line was added to verify the latest publish.
-        </p>
       </div>
     </div>
   );
